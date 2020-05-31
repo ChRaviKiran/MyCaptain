@@ -1,0 +1,24 @@
+package simplejava; // simplejava is my project name.
+
+import java.util.Scanner; 
+
+public class Simplejava 
+{
+    public static void main(String[] args) 
+    {
+        System.out.println("ORDER MENU:");
+        System.out.println("1.EGG FRIED RICE - RS.200\n2.CHICKEN BIRYANI - RS.250\n3.MUTTON BIRYANI - RS.350\n");
+        int n; // n : Serial number assosiated with the recipe.
+        System.out.println("Enter value of n:");
+        Scanner s = new Scanner(System.in);
+        n = s.nextInt();
+        switch(n)
+        {
+            case 1 : System.out.print("You have ordered EGG FRIED RICE.\nTOTAL AMOUNT = RS.200\n");break;
+            case 2 : System.out.print("You have ordered CHICKEN BIRYANI.\nTOTAL AMOUNT = RS.250\n");break;
+            case 3 : System.out.print("You have ordered MUTTON BIRYANI.\nTOTAL AMOUNT = RS.350\n");break;
+            default : System.out.print("Enter any value from 1 or 2 or 3.\n");
+        }
+    }
+    
+}
