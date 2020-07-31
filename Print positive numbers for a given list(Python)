@@ -1,0 +1,11 @@
+list1 = [12,-7,5,64,-14]
+positive = []
+for i in list1:
+    if(i>0):
+        positive.append(i)
+print(positive)
+for i in range(len(positive)):
+    if(i!=(len(positive)-1)):
+        print(positive[i],end=',')
+    else:
+        print(positive[i])
