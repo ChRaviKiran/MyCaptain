@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First Html page without CSS</title>
+	</head>
+	<body>
+		<h2><ins style="margin: 20px;float: left;">LOGO</ins> <ins style="float: right;margin: 20px">ABOUT US</ins> <ins style="float: right;margin: 20px">SIGNUP</ins> <ins style="float: right;margin: 20px">LOGIN</ins></h2><br><br><br><br><br><br>
+		<div style="width: 302px; height: 500px;float: left;margin: 34px;"><br>
+	 	<img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" width= "300">
+		<h3 style="text-align: left;margin: 5px"><b>Connect with Friends</b></h3>
+		<p style="text-align: left;margin: 5px">Feeling bored and trying to connect with your friends.Come and join us,we will make it easy for you.Make new friends by sending and accepting friend requests.Share your feeling,your experiences with your friends,family.Like,Comment on your friend posts & $hare with Your friends.</p>
+		</div>
+		<div style="width: 350px;height: 500px;float: left;margin: 34px;">
+		<h2 style="text-align: center"><ins>LOGIN / SIGNUP</ins></h2><br>
+		<p style="text-align: left;margin: 10px"><b>NAME :</b></p>
+		<p style="margin: 10px;height: 30px;">Enter your Name</p><br>
+		<p style="text-align: left;margin: 10px"><b>EMAIL :</b></p>
+		<p style="margin: 10px;height: 30px">Enter your Email Address</p><br>
+		<p style="text-align: left;margin: 10px"><b>PASSWORD :</b></p>
+		<p style="margin: 10px;height: 30px">Enter your Password</p><br>
+		<h3 style="text-align: center;width: 65px;margin: 10px"><b>LOGIN</b></h3>
+		<p style="text-align: left;margin: 10px">New Customer Sign Up <ins>here</ins></p>
+		</div>
+		<div style="width: 302px; height: 500px;float: left;margin: 34px;"><br>
+		<img src="https://images.unsplash.com/photo-1577864662891-c7b77f10f638?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" width= "300">
+		<h3 style="text-align: left;margin: 5px"><b>Make Voice and Video Calls</b></h3>
+		<p style="text-align: left;margin: 5px">Missing your NEAR & DEAR.Don't worry we will bring them to you virtually via Video Calls.Even though they are miles away from you can feel them as infront of you and sense them as they are sitting infront of you.Join us and stay connected with your loved ones anywhere & anytime.Be happy and make your loved ones happy.</p>
+		</div>
+
+		<p style="text-align: right;margin: 10px;">Copyrights Reserved @ CRK</p>
+	</body>
+</html>
+
